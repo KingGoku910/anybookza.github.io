@@ -1,0 +1,32 @@
+/*
+    css stylesheet for AnyBook api application
+    author
+    date
+*/
+
+body {
+    background-image: Url("../img/magic-book.jpg");
+    background-color: #017199;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h2, h1 {
+    font-family: 'Righteous', sans-serif;
+    color:black; 
+  }
+
+  #title {
+    margin-top: 200px;
+  }
+  
+  #header {
+    font-size: 3rem;
+  }
+  
+  .book-list {
+    margin-top: 50px;
+    visibility: hidden;
+  }
