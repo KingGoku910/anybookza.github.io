@@ -1,4 +1,4 @@
-# AnyBookZA - https://kinggoku910.github.io/anybookza.github.io/
+# AnyBookZA  
 Google Books API consumin Web APP built with HTML, CSS, jQuery and JavaScript.
 
 You can find it [here](https://kinggoku910.github.io/anybookza.github.io/)
