@@ -6,8 +6,8 @@
 
 body {
     background-image: url('https://thumbs2.imgbox.com/0e/5b/fNBj7riw_t.jpg');
-    background-color: #017199;
-    height: 100%;
+    background-color: #000;
+    vh: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
